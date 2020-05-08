@@ -1,0 +1,24 @@
+{
+  "name": "tool.js",
+  "version": "0.0.1",
+  "description": "Vanilla Js Generic Use Utility Tool ₺.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahadirdogru/tool.js.git"
+  },
+  "keywords": [
+    "Esnext",
+    "VanillaJs",
+    "Tools"
+  ],
+  "author": "bahadirdogru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahadirdogru/tool.js/issues"
+  },
+  "homepage": "https://github.com/bahadirdogru/tool.js#readme"
+}
