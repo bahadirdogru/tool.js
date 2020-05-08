@@ -1,4 +1,4 @@
-# Tool.JS (₺.js)
+# Tuul.JS (₺.js)
 
 ---
 
