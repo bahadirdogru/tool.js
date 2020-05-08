@@ -2,7 +2,7 @@
 
 ---
 
-₺.js is EsNext oriented Vanilla Js Generic use Library for me :)
+₺.js is EsNext oriented Vanilla Js Generic use Library - Tuul (tool) for me :)
 
 # Documentation
 
@@ -13,7 +13,7 @@ Outpute - void
 Example
 
 ```js
-const ₺ = require('tool.js');
+const ₺ = require('tuul.js');
 
 ₺.removeDom(document.getElementById('.footer')); // deleted.
 ```
