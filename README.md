@@ -13,7 +13,8 @@ Outpute - void
 Example
 
 ```js
-const ₺ = require('tuul.js');
+// const ₺
+const tl = require('tuul.js');
 
 ₺.removeDom(document.getElementById('.footer')); // deleted.
 ```
