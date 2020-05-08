@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bahadirdogru/tool.js.git"
+    "url": "git+https://github.com/bahadirdogru/tuul.js.git"
   },
   "keywords": [
     "Esnext",
@@ -18,7 +18,7 @@
   "author": "bahadirdogru",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bahadirdogru/tool.js/issues"
+    "url": "https://github.com/bahadirdogru/tuul.js/issues"
   },
-  "homepage": "https://github.com/bahadirdogru/tool.js#readme"
+  "homepage": "https://github.com/bahadirdogru/tuul.js#readme"
 }
