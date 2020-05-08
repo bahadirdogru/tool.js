@@ -16,5 +16,5 @@ Example
 // const ₺
 const tl = require('tuul.js');
 
-₺.removeDom(document.getElementById('.footer')); // deleted.
+tl.removeDom(document.getElementById('.footer')); // deleted.
 ```
